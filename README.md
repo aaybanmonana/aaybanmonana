@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaybanmonana
 - 👀 I’m interested in automation testing
-- 🌱 I’m currently learning Selenium Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Selenium Java (and i want to integrate it with Jenkins)
+- 💞️ I’m looking to collaborate on Automation Frameworks
 - 📫 How to reach me email: monanaivanvincent@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
